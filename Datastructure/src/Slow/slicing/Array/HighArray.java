@@ -25,6 +25,20 @@ public class HighArray {
 		a[nElems] = value;
 		nElems++;
 	}
+	public long getMax(){
+		long max = -1;
+		for (int i  = 0;i<nElems;i++){
+			if(a[i] > max){
+				max = a[i];
+			}
+		}
+		return max;
+	}
+	public void removeMax(){
+		boolean flag;
+		flag = delete(getMax());
+		display();
+	}
 
 	public boolean delete(long value){
 		int i;

@@ -1,5 +1,7 @@
 package Slow.slicing.Array;
 
+import java.lang.reflect.Array;
+
 public class HighArrayApp {
 	public static void main(String[] args) {
 		int maxSize = 100;
@@ -18,10 +20,16 @@ public class HighArrayApp {
 		if(array.find(value))
 			System.out.println("Found " +value);
 		else
-			System.out.println("Can`t find" +value);
+			System.out.println("Can`t find " +value);
 		array.delete(00);
 		array.delete(22);
 		array.delete(44);
 		array.display();
+		long max;
+		max = array.getMax();
+		System.out.println(max);
+		array.removeMax();
+		long[] arr = new long[maxSize];
+
 	}
 }
