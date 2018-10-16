@@ -39,6 +39,23 @@ public class HighArray {
 		flag = delete(getMax());
 		display();
 	}
+	public void sort(){
+		long  temp;
+		for(int i =0;i<nElems;i++){
+			for(int j = 0;j<nElems-i;j++){
+				if(a[j] < a[j+1]){
+					temp = a[j+1];
+					a[j+1] = a[j];
+					a[j] = temp;
+				}
+			}
+		}
+		long[]arr = new long[nElems];
+		for(int i = 0;i<nElems;i++){
+			arr[i] = a[nElems-i-1];
+		}
+		a = arr;
+	}
 
 	public boolean delete(long value){
 		int i;
@@ -55,6 +72,26 @@ public class HighArray {
 			nElems--;
 			return true;
 		}
+	}
+	public void noDup(){
+		for(int i = 0;i<nElems;i++){
+			for(int j = i+1;j<nElems;j++){
+				if(a[i] == a[j]){
+					a[i] = Long.parseLong(null);
+					break;
+				}
+			}
+		}
+		sort();
+		int j = 0;
+		for(int i = nElems-1;i>0;i--){
+			if(Long.parseLong(null) != a[i]){
+				j = i;
+				break;
+			}
+		}
+		nElems = j;
+		display();
 	}
 
 	public void display(){

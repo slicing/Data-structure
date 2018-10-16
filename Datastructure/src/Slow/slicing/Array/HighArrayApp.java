@@ -29,7 +29,10 @@ public class HighArrayApp {
 		max = array.getMax();
 		System.out.println(max);
 		array.removeMax();
-		long[] arr = new long[maxSize];
+		array.sort();
+		array.display();
+		array.noDup();
+
 
 	}
 }

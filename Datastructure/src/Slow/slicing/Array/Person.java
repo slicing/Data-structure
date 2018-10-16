@@ -19,6 +19,5 @@ public class Person {
         System.out.println("LastName : "+lastName);
         System.out.println("FirstName : "+firstName);
         System.out.println("Age : "+age);
-
     }
 }
