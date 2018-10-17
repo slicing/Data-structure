@@ -20,11 +20,12 @@ public class ArraySel {
 	}
 	public void selectionSort(){
 		int out,in, min;
-		for(out = 0;out<nElems;out++){
+		for(out = 0;out<nElems-1;out++){
 			min = out;
 			for(in = out+1;in < nElems;in++){
 				if(a[in] < a[min])
-					swap(out,min);
+					min = in;
+				swap(out,min);
 			}
 		}
 	}

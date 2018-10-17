@@ -27,7 +27,30 @@ public class ArrayBub {
 				if(a[in]> a[in+1])
 					swap(in,in+1);
 			}
+			for(in = out-1;in > 0;in--){
+				if(a[in] < a[in-1]){
+					swap(in,in-1);
+				}
+			}
 		}
+	}
+
+	public void oddEvenSort(){//奇偶排序
+		int exchFlag = 1,start = 0;
+		while (exchFlag == 1 || start == 1){
+			exchFlag = 0;
+			for (int i = start;i<nElems-1;i += 2){
+				if(a[i]>a[i+1]){
+					swap(i,i+1);
+					exchFlag = 1;
+				}
+			}
+			if(start == 0)
+				start = 1;
+			else
+				start = 0;
+		}
+
 	}
 
 	private void swap(int one, int two) {

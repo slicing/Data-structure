@@ -5,6 +5,10 @@ public class InsertSortApp {
 		int maxSize = 100;
 		ArrayIns arr;
 		arr = new ArrayIns(maxSize);
+		/*for(int i =0 ;i<maxSize;i++){
+			long n = (long)(java.lang.Math.random()*(maxSize - 1));
+			arr.insert(n);
+		}*/
 		arr.insert(77);
 		arr.insert(99);
 		arr.insert(44);
@@ -18,5 +22,7 @@ public class InsertSortApp {
 		arr.display();
 		arr.insertSort();
 		arr.display();
+		long num = arr.median();
+		System.out.println(num);
 	}
 }
