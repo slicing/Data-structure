@@ -28,6 +28,34 @@ public class ArrayIns {
 	public void quickSort1() {
 		recQuickSort1(0, nElems - 1);
 	}
+	public void quickSort2() {
+		recQuickSort2(0, nElems - 1);
+	}
+
+	private void recQuickSort2(int left, int right) {
+		int size = right - left+1;
+		if (size <= 10)
+			insertionSort(left,right);
+		else {
+			long median = medianOf3(left,right);
+			int partition = partitionIt1(left,right,median);
+			recQuickSort1(left,partition-1);
+			recQuickSort1(partition+1,right);
+		}
+	}
+
+	private void insertionSort(int left, int right) {
+		int in,out;
+		for (out = left+1;out<=right;out++){
+			long temp = theArray[out];
+			in = out;
+			while (in >left && theArray[in-1] >= temp){
+				theArray[in] = theArray[in-1];
+				--in;
+			}
+			theArray[in] = temp;
+		}
+	}
 
 	private void recQuickSort1(int left, int right) {
 		int size = right - left+1;
