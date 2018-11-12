@@ -141,8 +141,8 @@
       <file leaf-file-name="TreeApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Slow/slicing/Tree/TreeApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            <state relative-caret-position="190">
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -153,13 +153,13 @@
       <file leaf-file-name="DataItem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Slow/slicing/two_three_fourtree/DataItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="114">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#111#112#0" expanded="true" />
                 <element signature="e#128#129#0" expanded="true" />
                 <element signature="e#156#157#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -168,21 +168,13 @@
       <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Slow/slicing/two_three_fourtree/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
+            <state relative-caret-position="152">
               <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
               <folding>
-                <element signature="e#550#551#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
                 <element signature="e#583#584#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#657#658#0" expanded="true" />
-                <element signature="e#685#686#0" expanded="true" />
-                <element signature="e#720#721#0" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#778#779#0" expanded="true" />
+                <element signature="e#777#778#0" expanded="true" />
                 <element signature="e#807#808#0" expanded="true" />
-                <element signature="e#834#835#0" expanded="true" />
-                <element signature="e#849#850#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -191,23 +183,42 @@
       <file leaf-file-name="Tree234.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Slow/slicing/two_three_fourtree/Tree234.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1615">
+              <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tree234App.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Slow/slicing/two_three_fourtree/Tree234App.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="486">
-              <caret line="87" column="5" lean-forward="true" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+              <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
               <folding>
-                <element signature="e#1785#1786#0" expanded="true" />
-                <element signature="e#1797#1798#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tree234App.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Slow/slicing/two_three_fourtree/Tree234App.java">
+      <file leaf-file-name="RBTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Slow/slicing/red_black_tree/RBTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+            <state relative-caret-position="-1129">
+              <caret line="59" column="33" lean-forward="true" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
+                <element signature="e#772#773#0" expanded="true" />
+                <element signature="e#818#819#0" expanded="true" />
+                <element signature="e#864#865#0" expanded="true" />
+                <element signature="e#950#951#0" expanded="true" />
+                <element signature="e#1002#1003#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
+                <element signature="e#1051#1052#0" expanded="true" />
+                <element signature="e#1100#1101#0" expanded="true" />
+                <element signature="e#1114#1115#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -328,24 +339,8 @@
       <file leaf-file-name="InterIterApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Slow/slicing/linklist/InterIterApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
+            <state relative-caret-position="1007">
               <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FirstLastList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Slow/slicing/linklist/FirstLastList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-              <folding>
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -412,6 +407,7 @@
         <option value="$PROJECT_DIR$/src/Slow/slicing/two_three_fourtree/Node.java" />
         <option value="$PROJECT_DIR$/src/Slow/slicing/two_three_fourtree/Tree234.java" />
         <option value="$PROJECT_DIR$/src/Slow/slicing/two_three_fourtree/Tree234App.java" />
+        <option value="$PROJECT_DIR$/src/Slow/slicing/red_black_tree/RBTree.java" />
       </list>
     </option>
   </component>
@@ -424,7 +420,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1910" />
     <option name="y" value="-10" />
     <option name="width" value="1620" />
@@ -435,6 +431,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -453,13 +451,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="slicing" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Datastructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="slicing" type="462c0819:PsiDirectoryNode" />
+              <item name="red_black_tree" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -611,14 +614,16 @@
       <workItem from="1541394670525" duration="13145000" />
       <workItem from="1541467864917" duration="7558000" />
       <workItem from="1541556357278" duration="5585000" />
+      <workItem from="1542028280105" duration="3306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68364000" />
+    <option name="totallyTimeSpent" value="71670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="1294" height="734" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -633,7 +638,7 @@
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.1723301" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.17475729" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -643,11 +648,11 @@
       <window_info anchor="bottom" id="Debug" order="7" weight="0.5121951" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Messages" order="11" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -682,13 +687,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Slow/slicing/Stack/PostFixApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Slow/slicing/Stack/StackX2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="554">
@@ -831,12 +829,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Slow/slicing/linklist/FirstLastList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
+        <state relative-caret-position="646">
           <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -859,11 +853,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Slow/slicing/linklist/InterIterApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
+        <state relative-caret-position="1007">
           <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1044,8 +1035,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Slow/slicing/Tree/TreeApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        <state relative-caret-position="190">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1054,55 +1045,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Slow/slicing/two_three_fourtree/DataItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="114">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#111#112#0" expanded="true" />
             <element signature="e#128#129#0" expanded="true" />
             <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Slow/slicing/two_three_fourtree/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
+        <state relative-caret-position="152">
           <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           <folding>
-            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
             <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
             <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#834#835#0" expanded="true" />
-            <element signature="e#849#850#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Slow/slicing/two_three_fourtree/Tree234.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="87" column="5" lean-forward="true" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
-          <folding>
-            <element signature="e#1785#1786#0" expanded="true" />
-            <element signature="e#1797#1798#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1615">
+          <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Slow/slicing/two_three_fourtree/Tree234App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+        <state relative-caret-position="486">
+          <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Slow/slicing/red_black_tree/RBTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1129">
+          <caret line="59" column="33" lean-forward="true" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
+          <folding>
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1100#1101#0" expanded="true" />
+            <element signature="e#1114#1115#0" expanded="true" />
           </folding>
         </state>
       </provider>
