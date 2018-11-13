@@ -12,13 +12,13 @@ public class RBTreeAPP {
 		RBTree<Integer> tree = new RBTree<>();
 		System.out.println("==原始数据： ");
 		for (i = 0;i<ilen;i++)
-			System.out.print(a[i]);
+			System.out.print(a[i] +" ");
 		System.out.println();
 		for (i = 0;i<ilen;i++){
 			tree.insert(a[i]);
 			if (mDebugInsert){
 				System.out.println(" == 添加节点" + a[i]);
-				System.out.println(" == 树得详细信息: ");
+				System.out.println(" == 树的详细信息: ");
 				tree.print();
 				System.out.println();
 			}
@@ -26,9 +26,14 @@ public class RBTreeAPP {
 		System.out.println("== 前序遍历:");
 		tree.prerOder();
 		System.out.println("\n== 中序遍历:");
-		tree.postOrder();
-		System.out.println("\n== 后序遍历:");
 		tree.inOrder();
+		System.out.println("\n== 后序遍历:");
+		tree.postOrder();
+		System.out.println();
+		System.out.println(" == 最小值： " + tree.minimum());
+		System.out.println(" == 最大值： " + tree.maximum());
+		System.out.println(" == 树的详细信息： ");
+		tree.print();
 		System.out.println();
 		if (mDebugDelete){
 			for (i=0;i<ilen;i++){

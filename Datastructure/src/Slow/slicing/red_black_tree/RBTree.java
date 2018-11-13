@@ -449,7 +449,7 @@ public class RBTree<T extends Comparable<T>>{
 			if (direction == 0)
 				System.out.println(tree.key + "is root");
 			else
-				System.out.println(tree.key + (isRed(tree)?"R":"B") + " is " + key + "`s" + (direction == 1 ?"right":"left")+" child" );
+				System.out.println(tree.key + (isRed(tree)?"R":"B") + " is " + key + "`s " + (direction == 1 ?"right":"left")+" child" );
 			print(tree.left,tree.key,-1);
 			print(tree.right,tree.key,1);
 		}
